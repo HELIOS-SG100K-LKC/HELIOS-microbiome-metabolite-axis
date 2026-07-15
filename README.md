@@ -9,11 +9,11 @@ This repository contains the analysis code used in the manuscript:
 ```
 ├── 1_Microbial_variation/
 ├── 2_Alpha_diversity/
-├── 3_ Metabolome_variation/
-├── 4_ Microbe_metabolite_association/
-├── 5_ sCCA/
-├── 6_ Dietary_attenuation/
-├── 7_ Cardiometabolic_association/
+├── 3_Metabolome_variation/
+├── 4_Microbe_metabolite_association/
+├── 5_sCCA/
+├── 6_Dietary_attenuation/
+├── 7_Cardiometabolic_association/
 ├── 8_Causal_inference/
 └── README.md
 ```
