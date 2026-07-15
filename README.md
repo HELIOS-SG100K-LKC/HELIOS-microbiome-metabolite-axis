@@ -75,5 +75,4 @@ Script for
 
 > Note: Metabolite GWAS summary statistics and genetic analysis scripts are available in companion repository ** HELIOS-Metabolite-genetics**.
 
-## Software Analyses were performed in **R (v4.5.1)** using packages described in the Methods section of the manuscript.
-es described in the Methods section of the manuscript.
+## Software Analyses were performed in R (v4.5.1) using packages described in the Methods section of the manuscript.
